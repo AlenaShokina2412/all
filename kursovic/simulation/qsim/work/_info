@@ -1,0 +1,194 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/kursovic/simulation/qsim
+Eoperation_automat
+Z1 w1664124333
+Z2 DPx8 cyclonev 18 cyclonev_atom_pack 0 22 CX9c^[CNfbzHb3XCH3hoa1
+Z3 DPx8 cyclonev 19 cyclonev_components 0 22 NZ_cKj>1HW_D7i1UeTO[31
+Z4 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 6`GHcm:DR>=X_840X1FV;0
+Z5 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z6 DPx6 altera 11 dffeas_pack 0 22 dbC[kT^o8P[ggjb1if:RT1
+Z7 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z8 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z9 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z10 DPx6 altera 28 altera_primitives_components 0 22 PoC3B_7fao?IDTS[NR5Q62
+R0
+Z11 8kursovik.vho
+Z12 Fkursovik.vho
+l0
+L39
+V:_V=WSozm_X5Q`=RkFmJ;2
+!s100 Z4e>kYNhnfg32M8XdhkjA0
+Z13 OV;C;10.5b;63
+32
+Z14 !s110 1664124333
+!i10b 1
+Z15 !s108 1664124333.000000
+Z16 !s90 -work|work|kursovik.vho|
+Z17 !s107 kursovik.vho|
+!i113 1
+Z18 o-work work
+Z19 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 17 operation_automat 0 22 :_V=WSozm_X5Q`=RkFmJ;2
+l223
+L81
+VObEDHMV`KU=`L`J_3m35=3
+!s100 GSM`3e?4b6bbboQN=``[L0
+R13
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R18
+R19
+Eoperation_automat_vhd_vec_tst
+Z20 w1664124332
+R8
+R9
+R0
+Z21 8Waveform.vwf.vht
+Z22 FWaveform.vwf.vht
+l0
+L32
+V9aD=ki`EVC:fMId>:?zU<3
+!s100 `cbd`j;<@^YA8WEFSN19@1
+R13
+32
+R14
+!i10b 1
+R15
+Z23 !s90 -work|work|Waveform.vwf.vht|
+Z24 !s107 Waveform.vwf.vht|
+!i113 1
+R18
+R19
+Aoperation_automat_arch
+R8
+R9
+DEx4 work 29 operation_automat_vhd_vec_tst 0 22 9aD=ki`EVC:fMId>:?zU<3
+l55
+L34
+V1m_FRL8`QII;ZMRS;E00B0
+!s100 P_?V^4VZY0zK@MDZg?6iE3
+R13
+32
+R14
+!i10b 1
+R15
+R23
+R24
+!i113 1
+R18
+R19
+Eoperation_device
+Z25 w1664126589
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R0
+R11
+R12
+l0
+L39
+V1TSmRjad3kTbRA4]?6Y?93
+!s100 ;MWPR_TR2>CM3^DN=OTTE0
+R13
+32
+Z26 !s110 1664126590
+!i10b 1
+Z27 !s108 1664126590.000000
+R16
+R17
+!i113 1
+R18
+R19
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+DEx4 work 16 operation_device 0 22 1TSmRjad3kTbRA4]?6Y?93
+l214
+L86
+V=nLHLh;c<Fbb`D7MSlNX[2
+!s100 MY^WYDhl_9dJGkY@[]eoa3
+R13
+32
+R26
+!i10b 1
+R27
+R16
+R17
+!i113 1
+R18
+R19
+Eoperation_device_vhd_vec_tst
+Z28 w1664126588
+R8
+R9
+R0
+Z29 8Waveform1.vwf.vht
+Z30 FWaveform1.vwf.vht
+l0
+L32
+V1F_d1l9LjD;>Ye_lKPG`n1
+!s100 [345Uz@7N64`i=C=[g9LR2
+R13
+32
+R26
+!i10b 1
+R27
+Z31 !s90 -work|work|Waveform1.vwf.vht|
+Z32 !s107 Waveform1.vwf.vht|
+!i113 1
+R18
+R19
+Aoperation_device_arch
+R8
+R9
+Z33 DEx4 work 28 operation_device_vhd_vec_tst 0 22 1F_d1l9LjD;>Ye_lKPG`n1
+l61
+L34
+VfZhbA6FVZZlig2iJ<=z990
+!s100 7H8HER?02<PjE7DEf5VS93
+R13
+32
+R26
+!i10b 1
+R27
+R31
+R32
+!i113 1
+R18
+R19
